@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p>👋 Hi! My name is <strong>Celeste</strong> and I am a ✨ Full Stack Developer	✨</p>
+<p>👋 Hi! My name is **Celeste** and I am a ✨ Full Stack Developer	✨</p>
 
 🚀 I studied at **[Henry](https://www.soyhenry.com/)**, a Bootcamp, where I have spent more than 700 hours coding and practicing.
 I am trained in 
