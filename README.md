@@ -27,6 +27,6 @@ If you are interested in knowing me, contact me. I will answer as soon as possib
 
 <!---![Github stats](https://github-readme-stats.vercel.app/api?username=celestedubini&theme=omni&show_icons=true);--->
 
-[![Visits Badge](https://badges.pufler.dev/visits/celestedubini/celestedubini)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/celestedubini/celestedubini)]
 
 
