@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi! My name is **Celeste** and I am a ✨ Full Stack Developer	✨  
 
-🚀 I studied at **[Henry](https://www.soyhenry.com/)**, a Bootcamp, where I have spent more than 700 hours coding and practicing.
+🚀 I studied at **[Henry](https://www.soyhenry.com/)**, a Bootcamp, where I have spent more than 800 hours coding and practicing.
 I am trained in 
 * Javascript
 * HTML
