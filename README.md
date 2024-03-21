@@ -24,7 +24,7 @@ I am trained in
 ![Github stats](https://github-readme-stats.vercel.app/api?username=celestedubini&theme=omni&show_icons=true&count_private=true)
 
 If you are interested in knowing me, contact me. I will answer as soon as possible!  
-<p><a href="mailto:celestedubini@hotmail.com"><img width="60px" height="60px" src="https://cdn.icon-icons.com/icons2/17/PNG/256/gmail_mail_2217.png" alt="Mail">&nbsp;&nbsp;Mail</p>
+<p><a href="mailto:celestedubini@gmail.com"><img width="60px" height="60px" src="https://cdn.icon-icons.com/icons2/17/PNG/256/gmail_mail_2217.png" alt="Mail">&nbsp;&nbsp;Mail</p>
 <p><a href="https://www.linkedin.com/in/maria-celeste-dubini/"><img width="60px" height="60px" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="LinkedIn">&nbsp;&nbsp;LinkedIn</p>  
 
 <!---
